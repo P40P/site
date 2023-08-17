@@ -9783,6 +9783,7 @@ textarea.form-control-lg {
   }
   .text-lg-start {
     text-align: left !important;
+    color: white;
   }
   .text-lg-end {
     text-align: right !important;
